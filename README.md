@@ -89,7 +89,7 @@ Scritto per Mac, ma la parte grafica (Pygame) gira su qualsiasi sistema. La funz
 
 ---
 
-# ☕ Coffee Break Timer & Soundboard
+# Coffee Break Timer & Soundboard
 
 A break timer inspired by the Italian cult series *Boris*, built to run silently in the background and only show up when it's needed.
 
