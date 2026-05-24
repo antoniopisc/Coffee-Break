@@ -1,6 +1,6 @@
 # Coffee-Break
 A timer for your PC based on the famous Italian TV series "Boris"
-# ☕ Coffee Break Timer & Soundboard
+# Coffee Break Timer & Soundboard
 
 Un timer per le pause ispirato a *Boris*, che gira silenzioso in background e si attiva solo quando ti serve.
 
